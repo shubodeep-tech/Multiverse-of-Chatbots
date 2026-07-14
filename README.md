@@ -4,7 +4,7 @@ A modern AI chatbot built with **Streamlit** and powered by the **Groq API**. Ch
 
 ## Live Demo
 
-https:
+https://4zvewzjxdwm59v87gscppx.streamlit.app/
 
 ---
 
