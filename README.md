@@ -1,3 +1,6 @@
+<img width="1470" height="882" alt="Screenshot 2026-07-14 at 14 02 14" src="https://github.com/user-attachments/assets/2896f713-7556-44f7-bda5-2d8741f95d9c" />
+
+
 # 🤖 Multiverse Chatbot
 
 A modern AI chatbot built with **Streamlit** and powered by the **Groq API**. Chat with multiple unique personalities in real time using fast LLM inference and a clean chat interface.
